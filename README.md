@@ -38,3 +38,7 @@ npm start
 # 배포시
 npm run deploy
 ```
+
+## 📝 License
+
+This project is licensed under the MIT License.
